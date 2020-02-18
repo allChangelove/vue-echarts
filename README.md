@@ -1,10 +1,8 @@
 # dashboard
 
-> 基于Vue.js+express+echarts开发可视化大屏数据展示项目，大屏以深色背景为主，实现销售总览。
+> 基于Vue+Echarts实现的销售模块的数据可视化大屏，在学习的过程中作为练习的demo使用
 
-效果演示：https://chellel.github.io/dashboard-project/dist/index.html
 
-目前图表的数据暂时与销售数据无关，前期先做指定图表的静态实现，后期实现动态关联销售数据，以及后期再做布局的工作。本项目持续更新。
 
 ### 项目安装
 
